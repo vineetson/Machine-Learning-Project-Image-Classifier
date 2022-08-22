@@ -16,7 +16,7 @@ This article explores a Machine Learning algorithm called Convolution Neural Net
 
 
 <br></br>
-You are provided with a dataset consisting of 5,000 Cat images and 5,000 Dog images. We are going to train a Machine Learning model to learn differences between the two categories. The model will predict if a new unseen image is a Cat or Dog. The code architecture is robust and can be used to recognize any number of image categories, if provided with enough data.
+Dataset consists of 5,000 Cat images and 5,000 Dog images. We are going to train a Machine Learning model to learn differences between the two categories. The model will predict if a new unseen image is a Cat or Dog. The code architecture is robust and can be used to recognize any number of image categories, if provided with enough data.
 
 
 
