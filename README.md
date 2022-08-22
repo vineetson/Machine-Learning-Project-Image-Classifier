@@ -1,7 +1,6 @@
 # Introduction
 
 <br></br>
-Take me to the [code and Jupyter Notebook](https://github.com/AMoazeni/Machine-Learning-Image-Recognition/blob/master/Jupyter%20Notebook/ML%20-%20Image%20Recognition.ipynb) for Image Recognition!
 
 <br></br>
 This article explores a Machine Learning algorithm called Convolution Neural Network (CNN), it's a common Deep Learning technique used for image recognition and classification.
@@ -227,7 +226,7 @@ Download the code and run it with 'Jupyter Notebook' or copy the code into the '
 
 <br></br>
 ```shell
-$ git clone https://github.com/AMoazeni/Machine-Learning-Image-Recognition.git
+$ git clone https://github.com/vineetson/Machine-Learning-Project-Image-Classifier-.git
 $ cd Machine-Learning-Image-Recognition
 ```
 
