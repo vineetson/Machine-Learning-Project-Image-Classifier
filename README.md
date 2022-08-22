@@ -226,8 +226,8 @@ Download the code and run it with 'Jupyter Notebook' or copy the code into the '
 
 <br></br>
 ```shell
-$ git clone https://github.com/vineetson/Machine-Learning-Project-Image-Classifier-.git
-$ cd Machine-Learning-Image-Recognition
+$ git clone https://github.com/vineetson/Machine-Learning-Project-Image-Classifier.git
+$ cd Machine-Learning-Project-Image-Classifier
 ```
 
 <br></br>
